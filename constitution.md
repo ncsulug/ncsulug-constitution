@@ -1,15 +1,18 @@
 % Constitution of the Linux Users Group at North Carolina State University
 %
-% November 21, 2000
+% February 4, 2013
 
-## Name and Purpose
+## Name and Mission
 
 This organization shall be known as the Linux Users Group (LUG) at North
 Carolina State University.
 
-The purpose of this organization is to promote the use and usability of
-Linux in the NCSU community. This includes such activities such as
-informational talks, installfests, and open forums.
+The mission of the LUG is:
+
+* To promote the understanding of computers and computer science,
+* to encourage creative endeavors in computing,
+* to provide a forum for learning about and discussing recent developments in computing, and
+* to support the use and development of free and open source software.
 
 
 ## Membership
