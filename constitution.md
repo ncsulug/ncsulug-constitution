@@ -28,25 +28,20 @@ regulations, they may not hold office in LUG.
 
 ## Officers
 
-The officers of this organization shall be:
+The Officers of the LUG are the President, Vice-President, Public Relations
+Officer, and Treasurer.
 
-**President:**
-Responsible for leading the Steering Committee, directing the meetings,
-and assigning additional duties as necessary.
+The **President** is the nominal leader of the LUG. They are responsible
+for communicating with the University and other organizations, directing
+business meetings, and performing any other duties that become necessary.
 
-**Vice-President:**
-Assists the president as necessary and fills in for the President
-when absent.
+The **Vice-President** assists the President as necessary, and fills in
+for the President when absent.
 
-**Treasurer:**
-Responsible for maintaining an accounting of all LUG funds.
+The **Public Relations Officer** publicizes news about LUG events to the
+LUG and to the greater campus community.
 
-**Secretary:**
-Responsible for preparing the official minutes of each meeting and for
-e-mailing meeting announcements for meetings and other events.
-
-**Webmaster:**
-Responsible for maintaining the website.
+The **Treasurer** maintains records of the LUG's income and expenses.
 
 All of the Officers and any Chairpersons (see [Committees](#committees))
 make up the Steering Committee, which is responsible for the operation of
