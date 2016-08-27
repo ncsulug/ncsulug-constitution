@@ -1,6 +1,5 @@
-% Constitution of the Linux Users Group at North Carolina State University
-%
-% August 23, 2016
+[//]: # (Constitution of the Linux Users Group at North Carolina State University)
+[//]: # (August 23, 2016)
 
 ## Article 1 - Name and Mission
 
@@ -144,3 +143,7 @@ Steering Committee (see [Officers](#officers)).
 ## Non-Discrimination Policy
 
 Discrimination based upon race, color, religion, creed, sex, national origin, age, disability, veteran status, or sexual orientation is in violation of federal and state law and North Carolina State University policy, and will not be tolerated.
+
+## Revisions
+
+Last revised August 27, 2016.
