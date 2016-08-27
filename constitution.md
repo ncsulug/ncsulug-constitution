@@ -1,8 +1,8 @@
 % Constitution of the Linux Users Group at North Carolina State University
 %
-% February 4, 2013
+% August 23, 2016
 
-## Name and Mission
+## Article 1 - Name and Mission
 
 This organization shall be known as the Linux Users Group (LUG) at North
 Carolina State University.
@@ -13,7 +13,6 @@ The mission of the LUG is:
 * to encourage creative endeavors in computing,
 * to provide a forum for learning about and discussing recent developments in computing, and
 * to support the use and development of free and open source software.
-
 
 ## Membership
 
@@ -31,17 +30,35 @@ regulations, they may not hold office in LUG.
 The Officers of the LUG are the President, Vice-President, Public Relations
 Officer, and Treasurer.
 
-The **President** is the nominal leader of the LUG. They are responsible
-for communicating with the University and other organizations, directing
-business meetings, and performing any other duties that become necessary.
+The **President** is the nominal leader of the LUG.
+Duties include:
+
+* communicating with the University and other organizations
+* directing business meetings
+* managing and conducting regular club meetings
+* performing any other duties that become necessary.
 
 The **Vice-President** assists the President as necessary, and fills in
 for the President when absent.
+Duties include:
+
+* keeping meeting minutes
+* aiding in elections
 
 The **Public Relations Officer** publicizes news about LUG events to the
 LUG and to the greater campus community.
+Duties include:
+
+* club advertising
+* drafting and publishing announcements and blog posts
+* maintaining the website
 
 The **Treasurer** maintains records of the LUG's income and expenses.
+Duties include:
+
+* maintaining the club bank account
+* handling club purchases
+* keeping financial records
 
 All of the Officers and any Chairpersons (see [Committees](#committees))
 make up the Steering Committee, which is responsible for the operation of
@@ -123,3 +140,7 @@ from the current members on a volunteer basis.
 At least one member of the committee will be designated as the
 Chairperson of the Committee. All Chairpersons will be members of the
 Steering Committee (see [Officers](#officers)).
+
+## Non-Discrimination Policy
+
+Discrimination based upon race, color, religion, creed, sex, national origin, age, disability, veteran status, or sexual orientation is in violation of federal and state law and North Carolina State University policy, and will not be tolerated.
