@@ -44,8 +44,8 @@ Duties include:
 * keeping meeting minutes
 * aiding in elections
 
-The **Public Relations Officer** publicizes news about LUG events to the
-LUG and to the greater campus community.
+The **Secretary** publicizes news about LUG events to the
+LUG and to the greater campus community, as well as taking meeting notes when necessary.
 Duties include:
 
 * club advertising
